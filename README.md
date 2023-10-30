@@ -1,6 +1,6 @@
 # AI Trading
 
-#### Video Demo:  <URL https://youtu.be/1Un_zsdIFl0?si=Ub5pmqnoh65sdU2c>
+#### Video Demo:   [Watch on YouTube](https://youtu.be/1Un_zsdIFl0?si=Ub5pmqnoh65sdU2c)
 #### Description:
 I have developed a smart trading website for my CS50X final project. In this README, I will explain how the website works and how to use it.
 
