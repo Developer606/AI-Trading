@@ -2,7 +2,7 @@
 
 #### Video Demo:   [Watch on YouTube](https://youtu.be/1Un_zsdIFl0?si=Ub5pmqnoh65sdU2c)
 #### Description:
-I have developed a smart trading website for my CS50X final project. In this README, I will explain how the website works and how to use it.
+TradeWise AI is a cutting-edge platform designed to revolutionize the world of stock trading. In this README, I will explain how the website works and how to use it.
 
 ## Introduction
 I'd like to introduce my CS50X final project, which revolves around the creation of a smart trading website. The primary aim of this project is to provide users with an intuitive platform for making informed decisions in the stock market. This README will guide you through the website's features, functions, and how to effectively utilize it for your trading endeavors.
