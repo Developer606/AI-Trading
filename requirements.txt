@@ -44,7 +44,7 @@ greenlet==2.0.2
 grpcio==1.59.0
 gym==0.26.2
 gym-notices==0.0.8
-h5py==3.10.0
+h5py==3.8.0
 help50==3.0.5
 html5lib==1.1
 icdiff==2.0.7
