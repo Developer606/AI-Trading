@@ -31,7 +31,7 @@ cycler==0.11.0
 djhtml==3.0.6
 docutils==0.16
 EditorConfig==0.12.3
-Flask==2.3.3
+Flask== 2.2.5
 Flask-Session==0.5.0
 flatbuffers==23.5.26
 fonttools==4.42.1
