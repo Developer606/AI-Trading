@@ -20,7 +20,7 @@ charset-normalizer==3.2.0
 check50==3.3.8
 cli50==7.3.0
 click==8.1.7
-cloudpickle==3.0.0
+cloudpickle==2.2.0
 colorama==0.4.4
 compare50==1.2.6
 contourpy==1.1.1
