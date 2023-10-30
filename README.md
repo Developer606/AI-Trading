@@ -1,4 +1,4 @@
-# AI Trading
+# TradeWise AI
 
 #### Video Demo:   [Watch on YouTube](https://youtu.be/1Un_zsdIFl0?si=Ub5pmqnoh65sdU2c)
 #### Description:
