@@ -57,7 +57,7 @@ jellyfish==0.11.2
 Jinja2==3.1.2
 jmespath==1.0.1
 jsbeautifier==1.14.9
-keras==2.14.0
+keras==2.11.0
 kiwisolver==1.4.5
 lib50==3.0.7
 libclang==16.0.6
