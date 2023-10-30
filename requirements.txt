@@ -8,3 +8,4 @@ tensorflow
 tensorflow_intel
 Werkzeug
 yfinance
+gunicorn==19.7.1
