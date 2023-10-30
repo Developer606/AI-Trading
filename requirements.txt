@@ -4,7 +4,7 @@ numpy
 plotly
 pytz
 Requests
-tensorflo
+tensorflow
 tensorflow_intel
 Werkzeug
 yfinance
