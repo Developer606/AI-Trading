@@ -49,7 +49,7 @@ help50==3.0.5
 html5lib==1.1
 icdiff==2.0.7
 idna==3.4
-inflect==7.0.0
+inflect==6.0.5
 iniconfig==2.0.0
 intervaltree==3.1.0
 itsdangerous==2.1.2
